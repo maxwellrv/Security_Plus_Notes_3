@@ -17,3 +17,5 @@ In addition to these concepts, my studies for this section also comprised topics
 - Frauds and Scams
 - Influence Campaigns
 - Various Social Engineering Attacks
+
+You can find these notes in the file attached to this repository. Stay vigilant!
